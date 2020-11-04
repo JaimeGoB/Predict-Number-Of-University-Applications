@@ -14,19 +14,19 @@ Given a dataset containing information about colleges such as the number of appl
   
   - Ridge Regression
 
-  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/ridge.png" length = "450" width="450" />
+  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/ridge.png" length = "400" width="400" />
   
   - Lasso Regression
 
-  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/lasso.png" length = "450" width="450" /> 
+  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/lasso.png" length = "400" width="400" /> 
   
   - Principl Component Regression (PCR)
 
-  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/pcr.png"   length = "450" width="450" />
+  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/pcr.png"   length = "400" width="400" />
   
   - Partial Least Squares (PLS)
 
-  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/pls.png"   length = "450" width="450" />
+  <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/pls.png"   length = "400" width="400" />
 </p>
 
 # Results
