@@ -4,19 +4,26 @@ Given a dataset containing information about colleges such as the number of appl
 
 # Mean Square Error Plots 
 
-- Ridge Regression
 
-- Lasso Regression
 
-- Principl Component Regression (PCR)
 
-- Partial Least Squares (PLS)
 
 
 <p float="left">
+  - Ridge Regression
+
   <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/ridge.png" length = "450" width="450" />
+  
+  - Lasso Regression
+
   <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/lasso.png" length = "450" width="450" /> 
+  
+  - Principl Component Regression (PCR)
+
   <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/pcr.png"   length = "450" width="450" />
+  
+  - Partial Least Squares (PLS)
+
   <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/pls.png"   length = "450" width="450" />
 </p>
 
