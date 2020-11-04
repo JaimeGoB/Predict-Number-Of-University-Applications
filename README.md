@@ -97,5 +97,6 @@ Graduation rate
 # Results
 
 Using Partial Least Squares we get a model with the lowest LOOCV test error.
-<img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/results.png"   length = "450" width="450" />
+
+<img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/results.png"   length = "600" width="600" />
 
