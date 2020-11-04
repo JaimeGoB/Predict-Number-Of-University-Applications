@@ -82,8 +82,11 @@ loocv_full_model <- train(Apps ~ .,
                      method = "lm",
                      trControl = train.control)
 
-# MSE 0.08525488
+
+##### Fitting Full Model #####
 loocv_full_model <- cv.glm(college, full_model)
+
+###### compute loocv test error rate. #######
 test_error_full_model <- loocv_full_model$delta[1]
 
 
