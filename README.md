@@ -10,6 +10,8 @@ Given a dataset containing information about colleges such as the number of appl
 
 
 <p float="left">
+  
+  
   - Ridge Regression
 
   <img src="https://github.com/JaimeGoB/Predict-Number-Of-University-Applications/blob/main/data/ridge.png" length = "450" width="450" />
